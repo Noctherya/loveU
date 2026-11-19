@@ -8,14 +8,14 @@
   "theme_color": "#9b6b7a",
   "icons": [
     {
-      "src": "/https://i.postimg.cc/bNFTDGdJ/076d5922336deb5f3f2a41e472a6b0d2.jpg",
+      "src": "https://i.postimg.cc/bNFTDGdJ/076d5922336deb5f3f2a41e472a6b0d2.jpg",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/jpeg"
     },
     {
-      "src": "/https://i.postimg.cc/bNFTDGdJ/076d5922336deb5f3f2a41e472a6b0d2.jpg",
+      "src": "https://i.postimg.cc/bNFTDGdJ/076d5922336deb5f3f2a41e472a6b0d2.jpg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpeg"
     }
   ]
 }
